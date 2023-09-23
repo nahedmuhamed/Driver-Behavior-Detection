@@ -1,4 +1,4 @@
-# Driver Behavior Detection
+# Graduation project : Driver Behavior Detection
 <div align ="center">
  <img src ="https://github.com/Fares3993/Driver-Behavior-Detection-GP/assets/84674642/99dc7e9c-a620-46f9-875c-d128cbf79492" height = "280" width ="250">
 </div>
